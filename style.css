@@ -329,7 +329,7 @@ nav ul li a:hover::after {
     transform: translateY(-5px);
 }
 
-.btn.Btn2 {
+.btn.btn2 {
     display: inline-block;
     background-color: #0c3571;
 }
@@ -356,6 +356,11 @@ form.btn2 {
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
+}
+#msg{
+    color: #c5bdbd;
+    margin-top: -40px;
+    display: block;
 }
 
 .copyright {
